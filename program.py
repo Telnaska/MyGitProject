@@ -3,6 +3,8 @@ def my_superfunction():
 
 
 def main():
+    for i in range(10):
+        print('some text')
     print('My first git program')
     print('And I change it every day')
     print('Again')
