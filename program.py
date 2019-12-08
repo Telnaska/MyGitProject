@@ -1,3 +1,6 @@
+# Author: me(daniil)
+
+
 def my_superfunction():
     print('Yandexlyceum!!!')
     print('Yandex my life <3')
